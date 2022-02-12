@@ -9,7 +9,7 @@
 1) Abrir este código en gitpod https://gitpod.io/#https://github.com/cursos4GeeksAcademy/PTXIII-JavascriptFunciones
 2) Ejecutar el siguiente comando para ver como funciona 
 ```
-$ app.js
+$ node app.js
 ```
 
 ### Misión del fin de semana 
