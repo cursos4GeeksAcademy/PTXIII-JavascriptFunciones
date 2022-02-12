@@ -6,7 +6,7 @@
 ### https://www.loom.com/share/6b100b542c134e4390bb74f75ea04e72
 
 ###  Como ejecutar este Código
-1) Abrir este código en gitpod gitpod.io/#https://github.com/cursos4GeeksAcademy/Clase-JS-Excuse-Generator
+1) Abrir este código en gitpod https://gitpod.io/#https://github.com/cursos4GeeksAcademy/PTXIII-JavascriptFuncionesClase-JS-Excuse-Generator
 2) Ejecutar el siguiente comando para ver como funciona 
 ```
 $ app.js
